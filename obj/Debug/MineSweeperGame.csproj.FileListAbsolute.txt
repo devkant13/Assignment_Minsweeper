@@ -1,0 +1,8 @@
+C:\DevKant Data\Workspace\MineSweeperGame\bin\Debug\MineSweeperGame.exe.config
+C:\DevKant Data\Workspace\MineSweeperGame\bin\Debug\MineSweeperGame.exe
+C:\DevKant Data\Workspace\MineSweeperGame\bin\Debug\MineSweeperGame.pdb
+C:\DevKant Data\Workspace\MineSweeperGame\obj\Debug\MineSweeperGame.csproj.AssemblyReference.cache
+C:\DevKant Data\Workspace\MineSweeperGame\obj\Debug\MineSweeperGame.csproj.SuggestedBindingRedirects.cache
+C:\DevKant Data\Workspace\MineSweeperGame\obj\Debug\MineSweeperGame.csproj.CoreCompileInputs.cache
+C:\DevKant Data\Workspace\MineSweeperGame\obj\Debug\MineSweeperGame.exe
+C:\DevKant Data\Workspace\MineSweeperGame\obj\Debug\MineSweeperGame.pdb
